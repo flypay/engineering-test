@@ -29,18 +29,14 @@ The existing tests do the following:
 * call your orders API with [this basket](#order-payload) for restaurant `alpha` results in `alphapos` receiving the correct order
 * call your orders API with [this basket](#order-payload) for restaurant `beta` results in `betapos` receiving the correct order
 
-
 ## Once You Are Done
-* Please record a video talking us through your code for no more than 5 minutes.
-* Please open a pull request against this repository and assign [@flypay/technical-reviewers](https://github.com/orgs/flypay/teams/technical-reviewers/) as a reviewer.
-
+* Please record a video talking us through your code for no more than 5 minutes
+* Create an archive (zip) of your solution, then send it over to the Flyt recruiter
 
 ## The Process
-* You can submit your assignment anytime in the next 7 days as we want to give you plenty of time to work your way through it.
-* One of our engineers will review your PR usually 2-3 days after your submission and we'll send you feedback regardless of how you progress on the job application. 
-* We might also reach out to discuss your solution in more detail before progressing you to the next stage.
-
-
+* You can submit your assignment anytime in the next 7 days as we want to give you plenty of time to work your way through it
+* One of our engineers will review your solution (usually 2-3 days) and send you feedback regardless of how you progress on the job application
+* We might also reach out to discuss your solution in more detail before progressing you to the next stage
 
 # Examples
 
