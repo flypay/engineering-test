@@ -309,7 +309,7 @@ var products = `{
             "defaultIngredients": [],
             "extras": [
                 {
-                    "indredientId": "9009",
+                    "ingredientId": "9009",
                     "price": 0.99
                 }
             ]
