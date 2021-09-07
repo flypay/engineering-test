@@ -79,7 +79,7 @@ func handleOrder(order order) (orderResponse, error) {
 			Items map[string]struct {
 				Name     string  `json:"Name"`
 				Price    float32 `json:"Price"`
-				Quantity int     `json:Quantity"`
+				Quantity int     `json:"Quantity"`
 				AddOns   []struct {
 					ID    string  `json:"Id"`
 					Name  string  `json:"Name"`
